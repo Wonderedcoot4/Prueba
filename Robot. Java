@@ -1,0 +1,12 @@
+Public class Robot {
+Talon Motor1 = NEW Talon(0);
+Talon Motor2= NEW Talon(1);
+@Override RobotInit{
+Motor1.set(0.5);
+Motor2.set(0.5);
+
+}
+
+
+
+} 
